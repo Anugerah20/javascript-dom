@@ -29,5 +29,13 @@ Nama: Nabil Anugerah Pangestu
 - Di javascript saya membuat function changeColor.
 - Setelah itu saya memanggil class di javascript menggunakan perintah documet.getElementsByClassName, ini perintah khusus memanggil tag class di javascript.
 - for berfungsi untuk pengulangan berapa kali mau di ulangi, nilainya sudah ditentukan.
-- style.color untuk mengubah warna
+- style.color untuk mengubah warna.
 - jika diklik buttonya maka akan berubah warna.
+
+# Section 4.2
+- Pada section 4.2 saya membuat variabel section di javascript.
+- innerHTML berfungsi untuk menampilkan tag html beserta isi kontennya disini saya menambahkan section.
+- document.body.appendChild berfungsi untuk menambahkan sebuah elemen baru html ke dalam elemen body.
+- kemudian saya menambahkan padding sebesar 16px.
+- Terakhir saya menambahkan background berwarna teal.
+- Jika dibuka di browser maka tag html section beserta style-nya akan muncul di browser.
