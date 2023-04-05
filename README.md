@@ -21,3 +21,13 @@ Nama: Nabil Anugerah Pangestu
 -  Saya membuat perulangan menggunakan forEach yang berisi hobby.
 -  Mengecek menggunakan if apa hobby sudah di ceklis atau belum.
 -  Tampilkan hobby yang dipilih jika sudah di ceklis dan menekan button.
+
+# Section 4
+- Pada section 4 saya membuat tag p di html yang saya berikan class green.
+- Kemudian saya menambahkan button yang saya kasih onclick untuk menampilkan perubahan jika di klik.
+- Saya membuat internal css yang saya buat menggunakan selector class. propertinya color kemudian saya kasih value green.
+- Di javascript saya membuat function changeColor.
+- Setelah itu saya memanggil class di javascript menggunakan perintah documet.getElementsByClassName, ini perintah khusus memanggil tag class di javascript.
+- for berfungsi untuk pengulangan berapa kali mau di ulangi, nilainya sudah ditentukan.
+- style.color untuk mengubah warna
+- jika diklik buttonya maka akan berubah warna.
