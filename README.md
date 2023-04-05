@@ -39,3 +39,12 @@ Nama: Nabil Anugerah Pangestu
 - kemudian saya menambahkan padding sebesar 16px.
 - Terakhir saya menambahkan background berwarna teal.
 - Jika dibuka di browser maka tag html section beserta style-nya akan muncul di browser.
+
+# Section 5
+- Pada section 5 saya membuat tag a menggunakan 
+di html yang saya berikan id link.
+- Kemudian saya menambahkan button yang saya kasih onclick untuk menampilkan perubahan jika di klik.
+- Di javascript saya membuat function removeLine.
+- Setelah itu saya memanggil link menggunakan    perintah documet.getElementById, ini perintah khusus memanggil tag id di javascript.
+- removeAttribute berfungsi untuk menghapus atribut pada elemen html.
+- Jika diklik buttonya maka garis bawah tag a akan hilang.
