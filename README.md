@@ -59,3 +59,11 @@ di html.
 - teksContent berfungsi untuk mengembalikan string di elemen html.
 - Saya membuat function updateText yang didalamnya saya hubungkan btn dengan textContent untuk menampilkan teks baru.
 - Jika cursor diarahkan ke button maka akan berubah teksnya.
+
+# Section 8
+- Pada section 8 saya membuat tag p menggunakan 
+di html.
+- Kemudian saya membuat select untuk menampilkan jenis-jenis mobil.
+- Kemudian saya membuat button, Lalu saya tambahkan onclik jika diklik maka akan terjadi tindakan tertentu.
+- Saya membuat function myCar yang berisi variabel let yang menggambil id car yang tipenya value.
+- alert berfungsi untuk menampilkan pesan pop-up di browser, disini akan menampilkan nama mobil yang kamu pilih.
