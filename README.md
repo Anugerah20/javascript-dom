@@ -48,3 +48,14 @@ di html yang saya berikan id link.
 - Setelah itu saya memanggil link menggunakan    perintah documet.getElementById, ini perintah khusus memanggil tag id di javascript.
 - removeAttribute berfungsi untuk menghapus atribut pada elemen html.
 - Jika diklik buttonya maka garis bawah tag a akan hilang.
+
+# Section 7
+- Pada section 7 saya membuat tag p menggunakan 
+di html.
+- Kemudian saya membuat button yang saya berikan id btn, Lalu saya tambahkan onmouseover jika di arahkan ke kursor yang dituju maka akan terjadi tindakan tertentu.
+- Setelah itu saya memanggil btn di javascript menggunakan perintah documet.getElementById, ini perintah khusus memanggil tag id di javascript.
+- Lalu saya membuat variabel const yang berisi string.
+- Kemudian saya hubungkan btn menggunakan teksContent yang berisi textReal
+- teksContent berfungsi untuk mengembalikan string di elemen html.
+- Saya membuat function updateText yang didalamnya saya hubungkan btn dengan textContent untuk menampilkan teks baru.
+- Jika cursor diarahkan ke button maka akan berubah teksnya.
