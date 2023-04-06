@@ -1,4 +1,4 @@
-# Javascript DOM
+# Challenge-Class-Javascript-DOM
 
 Nama: Nabil Anugerah Pangestu
 
